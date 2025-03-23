@@ -1,8 +1,6 @@
 # YEPcord server
 Unofficial discord backend implementation in python.
 
-[![Stand With Ukraine](.github/banner-direct.svg)](https://stand-with-ukraine.pp.ua)
-
 # Setup
 **Requirements:**
  - Python 3.9+
